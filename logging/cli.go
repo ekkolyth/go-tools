@@ -1,4 +1,4 @@
-package config
+package logging
 
 const (
 	// ANSI color codes for terminal output
